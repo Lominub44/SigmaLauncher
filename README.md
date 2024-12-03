@@ -1,0 +1,2 @@
+# SigmaLauncher
+The official SigmaLauncher
