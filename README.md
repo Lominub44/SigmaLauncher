@@ -22,3 +22,4 @@
 - All-in-one start script.
 - Compiled version for easier use.
 - More Hacks
+- Move SigmaPrograms to Documents (due to a bug it currently only works in Downloads)
